@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Schematics Rendszer",
+    "description": "Struktúrák importálása és elhelyezése paranccsal.",
+    "uuid": "cd503de6-68ff-4f0f-b893-8d587c02e4ea",
+    "version": [ 1, 0, 0 ],
+    "min_engine_version": [ 1, 19, 0 ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry_point": "scripts/main.js",
+      "uuid": "936bd739-80ce-47a0-b9b1-55514d363625",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "dependencies": []
+}
